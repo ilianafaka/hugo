@@ -22,7 +22,7 @@ At TechMentor, we believe that software has the power to change the world. Our j
         <strong>OUR MISSION</strong>
     </div>
     <h4>
-        Our mission is simple to empower individuals with the knowledge and tools they need to excel in the ever-evolving field of software development. We are committed to providing high-quality education, encourage creativity, and building a strong sense of community.
+        Our mission is simple to empower individuals with the knowledge and tools they need to excel in the ever-evolving field of software development. We are committed to providing high-quality education, encouraging creativity, and building a strong sense of community.
     </h4>
 </div>
 
@@ -35,7 +35,7 @@ At TechMentor, we believe that software has the power to change the world. Our j
         <strong>OUR COMMITMENT</strong>
     </div>
     <h4>
-        Our mission is simple to empower individuals with the knowledge and tools they need to excel in the ever-evolving field of software development. We are committed to providing high-quality education, encourage creativity, and building a strong sense of community.
+        At TechMentor, we're committed to helping your growth in the field of software development. We promise to offer superior learning materials compatible with the latest in technology. In all our tasks, we promote diversity, collaboration, and the highest levels of trust and transparency. With TechMentor, you're not just learning, you're joining a community committed to excellence.
     </h4>
 </div>
 
