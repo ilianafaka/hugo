@@ -1,7 +1,7 @@
 ---
 title: About TechMentor
 linkTitle: About
-menu: {main: {weight: 10}}
+menu: {main: {weight: 20}}
 ---
 
 {{% blocks/cover title="About TechMentor" image_anchor="bottom" height="auto" %}}

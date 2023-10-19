@@ -1,4 +1,4 @@
 ---
-title: Releases
+title: Software
 weight: 20
 ---
