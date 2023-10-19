@@ -48,5 +48,5 @@ To optimize my website for search engines I started by setting up a google searc
    * Adopting internal linking to direct users to related content within the site.
 * Implement analytics to monitor site performance and user interactions.
 
-### 2. Website optimisation for search engines
+### 2. Contact form
 Since Hugo is a static site generator, it doesn't have a backend to handle form submissions. I will use the Netlify, that provides a simple solution for managing forms. 
