@@ -24,7 +24,6 @@ The site is hosting at the [GitHub](https://github.com/ilianafaka/hugo.git) repo
 ### 5. Difficulties
 
 * It is not clear for me how the style applied to the elements by the use of bootstrap. In some cases I used in-line style instead using the external file.
-* I had difficulties adding a contact page (static html) to the menu. 
 * Couldn't find how to remove the right column from the blog page.
 
 ### 6. Further tasks
