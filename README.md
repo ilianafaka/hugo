@@ -19,7 +19,7 @@ For the creaton of the site I used the **Docsy**, a Hugo theme module for techni
 To become familiar with the Hugo site I customised it by altering several parts. For example, I changed the cover image, the navigation bar, background colours and icons. I also kept three main pages from the original template: home, about and blog.
 
 ## 4. Hosting the Site
-The site is hosting at the [GitHub](https://github.com/ilianafaka/hugo.git) repository and it can be viewed on Netlify at  https://hugotraining.netlify.app
+The site is hosting at the [GitHub](https://github.com/ilianafaka/hugo.git) repository and it can be viewed on Netlify at  https://hugotraining.netlify.app/en/
 
 ### 5. Difficulties
 
