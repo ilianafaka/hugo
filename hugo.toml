@@ -1,12 +1,6 @@
 baseURL = "/"
 title = "TechMentor"
 
-[[menu.main]]
-name = "Contact"
-url = "/contact_form.html"
-weight = 40
-
-
 # Language settings
 contentDir = "content/en"
 defaultContentLanguage = "en"
